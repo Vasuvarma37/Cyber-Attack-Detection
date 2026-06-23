@@ -544,3 +544,6 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 > *"The best defense is understanding the offense."*  
 > — CyberGuard v2.0 · CICIDS-2017 · XGBoost + FastAPI + React
+>
+> <img width="1295" height="907" alt="image" src="https://github.com/user-attachments/assets/3311f6b2-95d8-4e7d-a273-1fcc19569db6" />
+
