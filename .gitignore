@@ -2,3 +2,8 @@ desktop.ini
 *.csv
 __pycache__/
 .ipynb_checkpoints/
+node_modules/
+frontend/node_modules/
+dist/
+.venv/
+__pycache__/
